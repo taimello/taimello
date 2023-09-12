@@ -1,20 +1,12 @@
-<div align="center" >
+# Hi! Tainara Mello here
 
-# Tainara Mello
-
-:computer: Full Stack Java Developer
-<br>
-:e-mail: tainarakarolina@gmail.com
-<br>
-:open_book: Systems Analysis and Development
-
-
-
-## Conecte-se comigo
+#### :computer: Full Stack Java Developer
+#### :e-mail: tainarakarolina@gmail.com
+#### :open_book: Systems Analysis and Development
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/tainaraamello)
 
-
-## Habilidades
+##
+# Habilidades
 
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&color=1B5E20)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&color=1B5E20&logo=typescript)
